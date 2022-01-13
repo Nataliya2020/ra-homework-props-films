@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-homework-props-films/static/css/main.9e36a638.css",
+    "main.js": "/ra-homework-props-films/static/js/main.00343b99.js",
+    "static/js/787.2c78b462.chunk.js": "/ra-homework-props-films/static/js/787.2c78b462.chunk.js",
+    "index.html": "/ra-homework-props-films/index.html",
+    "main.9e36a638.css.map": "/ra-homework-props-films/static/css/main.9e36a638.css.map",
+    "main.00343b99.js.map": "/ra-homework-props-films/static/js/main.00343b99.js.map",
+    "787.2c78b462.chunk.js.map": "/ra-homework-props-films/static/js/787.2c78b462.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e36a638.css",
+    "static/js/main.00343b99.js"
+  ]
+}
